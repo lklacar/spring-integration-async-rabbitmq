@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-intergration-async-rabbitmq.iml" filepath="$PROJECT_DIR$/.idea/spring-intergration-async-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work-dispatcher/work-dispatcher.iml" filepath="$PROJECT_DIR$/work-dispatcher/work-dispatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work-processor/work-processor.iml" filepath="$PROJECT_DIR$/work-processor/work-processor.iml" />
+    </modules>
+  </component>
+</project>
